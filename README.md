@@ -1,9 +1,11 @@
 # prism-toolbar
-A toolbar for prism syntax highlighter which adds an option to copy and view source of the code<br/>
+A toolbar for <a href="https://prismjs.com">prism syntax highlighter</a> which adds an option to copy and view source of the code<br/>
 This is just a clone of prism toolbar which is located at this <a href="http://dev.misterphilip.com/prism/plugins/toolbar/">blog</a><br/>.
 With this plugin you can add the functionality of copying the code with one-click and can view source of the code.<br/>
 Works with every browser<br/>.
 The copying functionality is based on the <a href="http://zeroclipboard.org">Zeroclipboard</a>.<br/>
+<h1>Requirements</h1>
+This plugin requires <a href="https://github.com/LeaVerou/prism">prism syntax highlighter</a>.Just include the above css and js to make the plugin work
 <h1>Installing the Plugin</h1>
 Installing the plugin is very easy.Follow the below steps
 <ul>
@@ -20,7 +22,9 @@ That&#39;s all, you can now copy easily your code with one click
 All the credits to it&#39;s owner.I am just providing source code to easily install this plugin
 Credits to <a href="http://dev.misterphilip.com/prism/plugins/toolbar/">the author</a>.<br/>
 <strong>Note</strong><br/>
-If you dont have space to host you can use the following scripts which are hosted on google drive 
+<ol>
+<li>While uploading the scripts and style include zeroclipboard.min.js,prism-toolbar.js and zeroclipboard.swf in same folder other wise the plugin wont work</li>
+<li>If you dont have space to host you can use the following scripts which are hosted on google drive 
 http://googledrive.com/host/0Bzpv595vATc9b3RLbUtzM0YzUGM/prism-toolbar.css <br/>
 https://googledrive.com/host/0Bzpv595vATc9b3RLbUtzM0YzUGM/prism-toolbar.js <br/>
-https://cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.1.7/ZeroClipboard.min.js <br/>
+https://cdnjs.cloudflare.com/ajax/libs/zeroclipboard/1.1.7/ZeroClipboard.min.js <br/> </li>
