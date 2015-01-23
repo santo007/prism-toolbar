@@ -9,8 +9,9 @@ This plugin requires <a href="https://github.com/LeaVerou/prism">prism syntax hi
 <h1>Installing the Plugin</h1>
 Installing the plugin is very easy.Follow the below steps
 <ul>
-<li>Just copy the files in the folder source</li>
-<li>upload the files prism-toolbar.css , prism-toolbar.js, zeroclipboard.min.js and zeroclipboard.swf in your website hosting account</li>
+<li>Download the <a href="https://ajax.cdnjs.com/ajax/libs/zeroclipboard/1.1.7/ZeroClipboard.swf">zeroclipboard.swf</a></li>
+<li>Download the source folder</li>
+<li>upload the files prism-toolbar.css , prism-toolbar.js, zeroclipboard.min.js and zeroclipboard.swf in your website hosting account(Upload both ZeroClipboard.js and ZeroClipboard.swf in the same folder else the plugin won't work)</li>
 <li>Use the script tags to include the prismtoolbar.js and zeroclipboard.min.js above the &lt;/body&gt; and style tags to include prism-toolbar.css above &lt;/head&gt; as follows<br/>
 &lt;link href=&#39;/prism-toolbar.css&#39; type=&#39;text/css&#39; rel=&#39;stylesheet&#39; /&gt;<br/>
 &lt;script src=&#39;/prism-toolbar.js&#39; type=&#39;text/javascript&#39;/&gt;<br/>
@@ -21,7 +22,7 @@ That&#39;s all, you can now copy easily your code with one click
 
 All the credits to it&#39;s owner.I am just providing source code to easily install this plugin
 Credits to <a href="http://dev.misterphilip.com/prism/plugins/toolbar/">the author</a>.<br/>
-<strong>Note</strong><br/>
+<strong>Notes</strong><br/>
 <ol>
 <li>While uploading the scripts and style include zeroclipboard.min.js,prism-toolbar.js and zeroclipboard.swf in same folder other wise the plugin wont work</li>
 <li>If you dont have space to host you can use the following scripts which are hosted on google drive 
