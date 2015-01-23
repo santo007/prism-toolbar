@@ -9,7 +9,7 @@ This plugin requires <a href="https://github.com/LeaVerou/prism">prism syntax hi
 <h1>Installing the Plugin</h1>
 Installing the plugin is very easy.Follow the below steps
 <ul>
-<li>Just copy the files in the folder backbone</li>
+<li>Just copy the files in the folder source</li>
 <li>upload the files prism-toolbar.css , prism-toolbar.js, zeroclipboard.min.js and zeroclipboard.swf in your website hosting account</li>
 <li>Use the script tags to include the prismtoolbar.js and zeroclipboard.min.js above the &lt;/body&gt; and style tags to include prism-toolbar.css above &lt;/head&gt; as follows<br/>
 &lt;link href=&#39;/prism-toolbar.css&#39; type=&#39;text/css&#39; rel=&#39;stylesheet&#39; /&gt;<br/>
